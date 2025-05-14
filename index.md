@@ -8,3 +8,8 @@ Here is the command to initiialize a respoitory.
 ```
 git init
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] My todo list
